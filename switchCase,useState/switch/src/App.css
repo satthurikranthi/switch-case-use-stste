@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.button{
+  background-color: #00ffff;
+  font-size: larger;
+  font-style: italic;
+}
+
+#score{
+  background-color: black;
+  font-size: medium;
+  font-style: italic;
+}
